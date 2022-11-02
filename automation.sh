@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#this script is very impressive, i myself is learning from upgrad, can i get half an hour of your precious time buddy.
 s3bucketname=upgrad-pruthvi
 myname=pruthvi
 service=apache2
